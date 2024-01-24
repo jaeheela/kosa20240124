@@ -46,6 +46,6 @@ git push -u origin main
 
 
 
-git commit -am "커밋 메시지"
+git commit -am "20240124"
 git push
 
