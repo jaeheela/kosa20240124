@@ -1,7 +1,7 @@
 # 출처 : https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
 # 라이선스 : 학습으로만 사용.
 
-# => yolov3.weights 파일 용량이 너무 커 github에 업로드 안함
+# => yolov3.weights 파일 용량이 너무 커 github에 업로드 안함 (약 240mb) 가중치파일
 
 import cv2
 import numpy as np

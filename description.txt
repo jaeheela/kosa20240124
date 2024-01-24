@@ -10,6 +10,9 @@ git status
 git config --local user.email jhla456@kakao.com
 git config --local user.name jaeheela
 git add .
+git reset
+git reset 파일의_경로/파일명
+
 git status
 git commit -m '메세지'
 
@@ -40,4 +43,9 @@ git push -u origin main
 git remote add origin https://github.com/jaeheela/kosa20240124.git
 git branch -M main
 git push -u origin main
+
+
+
+git commit -am "커밋 메시지"
+git push
 
