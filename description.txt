@@ -1,3 +1,4 @@
+- 파이썬 가상환경 설치 : pip istall virtualenv > virtualenv --version
 - terminal 설정 변경: select default profile > command prompt
 - 파이썬 가상환경 생성 : virtualenv [생성할가상환경이름] - virtualenv _envKosa
 
